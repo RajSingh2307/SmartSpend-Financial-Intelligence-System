@@ -1,0 +1,43 @@
+# Core Data Science Libraries
+pandas==2.1.4
+numpy==1.24.3
+scikit-learn==1.3.2
+scipy==1.11.4
+
+# Data Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+plotly==5.17.0
+
+# Machine Learning & Time Series
+statsmodels==0.14.1
+prophet==1.1.5
+
+# Web Application
+streamlit==1.29.0
+streamlit-option-menu==0.3.6
+
+# Database
+sqlite3
+sqlalchemy==2.0.23
+
+# Natural Language Processing
+nltk==3.8.1
+textblob==0.17.1
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2023.3
+joblib==1.3.2
+
+# Development Tools
+jupyter==1.0.0
+ipykernel==6.27.1
+pytest==7.4.3
+
+# Data Generation (for sample data)
+faker==20.1.0
+
+# Export capabilities
+openpyxl==3.1.2
+xlsxwriter==3.1.9
